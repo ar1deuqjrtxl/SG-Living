@@ -73,8 +73,8 @@
      > 단, UOB에서는 IPA를 정식 서류로 인정하지 않아서, 물리 EP카드 필요
    3. **주거증명서류: Certificate of stamp duty or Employment Pass In-Principle Approval (IPA, 주소가 적혀있어야함)**  
      > UOB에서는 양자가 서명한 Tenancy Agreement (TA)도 됩니다. DBS는 안됩니다.
-   - **(UOB인 경우에만) Deposit 1000 SGD**
-     > 들어왔을때 당장 만들 수 있는 증빙들로 간단하게 썼지만 다른 증빙도 가능합니다. 자세한건 (https://www.dbs.com.sg/personal/support/bank-account-opening-documents-required.html) 같은 은행 페이지 참고
+   4. **(UOB인 경우에만) Deposit 1000 SGD**
+> 들어왔을때 당장 만들 수 있는 증빙들로 간단하게 썼지만 다른 증빙도 가능합니다. 자세한건 (https://www.dbs.com.sg/personal/support/bank-account-opening-documents-required.html) 같은 은행 페이지 참고
 
 3. **처리 기간**
    - 보통 영업일 기준 **약 5일 후 계좌 개설 완료**  
@@ -130,6 +130,7 @@
 ---
 
 > 📘 *본 문서는 2025년 11월 02일 기준 개인 경험에 기반하며, 실제 은행 정책이나 정부 절차는 시기에 따라 달라질 수 있습니다.*
+
 
 
 
